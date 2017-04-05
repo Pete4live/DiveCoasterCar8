@@ -1,0 +1,336 @@
+[17-04-03 20:08:18] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403200818011.dll...
+[17-04-03 20:08:18] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:08:18] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:08:18] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:08:18] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:08:18] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:08:18] Info: Compile using compiler version v3.5.
+[17-04-03 20:08:26] Info: Loaded build-170403200818011, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:08:26] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:11:18] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403201118390.dll...
+[17-04-03 20:11:18] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:11:18] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:11:18] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:11:18] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:11:18] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:11:18] Info: Compile using compiler version v3.5.
+[17-04-03 20:11:56] Info: Loaded build-170403201118390, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:11:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:14:05] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403201405601.dll...
+[17-04-03 20:14:05] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:14:05] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:14:05] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:14:05] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:14:05] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:14:05] Info: Compile using compiler version v3.5.
+[17-04-03 20:14:13] Info: Loaded build-170403201405601, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:14:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:15:31] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403201531583.dll...
+[17-04-03 20:15:31] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:15:31] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:15:31] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:15:31] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:15:31] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:15:31] Info: Compile using compiler version v3.5.
+[17-04-03 20:15:38] Info: Loaded build-170403201531583, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:15:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:19:21] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403201921903.dll...
+[17-04-03 20:19:21] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:19:21] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:19:21] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:19:21] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:19:21] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:19:21] Info: Compile using compiler version v3.5.
+[17-04-03 20:20:07] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202007372.dll...
+[17-04-03 20:20:07] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:20:07] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:20:07] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:20:07] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:20:07] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:20:07] Info: Compile using compiler version v3.5.
+[17-04-03 20:20:14] Info: Loaded build-170403202007372, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:20:14] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:21:56] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202156131.dll...
+[17-04-03 20:21:56] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:21:56] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:21:56] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:21:56] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:21:56] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:21:56] Info: Compile using compiler version v3.5.
+[17-04-03 20:22:02] Info: Loaded build-170403202156131, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:22:02] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:22:57] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202257848.dll...
+[17-04-03 20:22:57] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:22:57] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:22:57] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:22:57] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:22:57] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:22:57] Info: Compile using compiler version v3.5.
+[17-04-03 20:23:04] Info: Loaded build-170403202257848, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:23:04] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:23:53] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202353369.dll...
+[17-04-03 20:23:53] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:23:53] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:23:53] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:23:53] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:23:53] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:23:53] Info: Compile using compiler version v3.5.
+[17-04-03 20:24:00] Info: Loaded build-170403202353369, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:24:00] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:24:35] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202435099.dll...
+[17-04-03 20:24:35] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:24:35] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:24:35] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:24:35] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:24:35] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:24:35] Info: Compile using compiler version v3.5.
+[17-04-03 20:24:42] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202442935.dll...
+[17-04-03 20:24:42] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:24:42] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:24:42] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:24:42] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:24:42] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:24:42] Info: Compile using compiler version v3.5.
+[17-04-03 20:24:50] Info: Loaded build-170403202442935, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:24:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:25:20] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202520972.dll...
+[17-04-03 20:25:20] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:25:20] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:25:20] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:25:20] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:25:20] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:25:20] Info: Compile using compiler version v3.5.
+[17-04-03 20:25:28] Info: Loaded build-170403202520972, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:25:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ModLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ModLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+[17-04-03 20:28:58] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403202858825.dll...
+[17-04-03 20:28:58] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:28:58] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:28:58] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:28:58] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:28:58] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:28:58] Info: Compile using compiler version v3.5.
+[17-04-03 20:29:05] Info: Loaded build-170403202858825, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:29:05] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:33:45] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403203345735.dll...
+[17-04-03 20:33:45] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:33:45] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:33:45] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:33:45] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:33:45] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:33:45] Info: Compile using compiler version v3.5.
+[17-04-03 20:33:52] Info: Loaded build-170403203345735, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:33:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ModLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+[17-04-03 20:36:43] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403203643312.dll...
+[17-04-03 20:36:43] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:36:43] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:36:43] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:36:43] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:36:43] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:36:43] Info: Compile using compiler version v3.5.
+[17-04-03 20:37:27] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403203727890.dll...
+[17-04-03 20:37:27] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:37:27] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:37:27] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:37:27] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:37:27] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:37:27] Info: Compile using compiler version v3.5.
+[17-04-03 20:37:38] Info: Loaded build-170403203727890, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:37:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:40:35] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403204035062.dll...
+[17-04-03 20:40:35] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:40:35] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:40:35] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:40:35] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:40:35] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:40:35] Info: Compile using compiler version v3.5.
+[17-04-03 20:40:42] Info: Loaded build-170403204035062, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:40:42] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-03 20:43:32] Info: Compiling Dive-Coaster-Car-8 to bin/build-170403204332813.dll...
+[17-04-03 20:43:32] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-03 20:43:32] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-03 20:43:32] Info: IGNORING assembly reference `Depender`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-03 20:43:32] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-03 20:43:32] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-03 20:43:32] Info: Compile using compiler version v3.5.
+[17-04-03 20:43:41] Info: Loaded build-170403204332813, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-03 20:43:41] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-04 17:32:53] Info: Compiling Dive-Coaster-Car-8 to bin/build-170404173253353.dll...
+[17-04-04 17:32:53] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-04 17:32:53] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-04 17:32:53] Info: IGNORING assembly reference `Depender`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-04 17:32:53] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-04 17:32:53] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-04 17:32:53] Info: Compile using compiler version v3.5.
+[17-04-04 17:33:13] Info: Loaded build-170404173253353, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-04 17:33:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-04 17:37:35] Info: Compiling Dive-Coaster-Car-8 to bin/build-170404173735901.dll...
+[17-04-04 17:37:35] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-04 17:37:35] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-04 17:37:35] Info: IGNORING assembly reference `Depender`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-04 17:37:35] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-04 17:37:35] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-04 17:37:35] Info: Compile using compiler version v3.5.
+[17-04-04 17:37:43] Info: Loaded build-170404173735901, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-04 17:37:43] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-04 17:40:26] Info: Compiling Dive-Coaster-Car-8 to bin/build-170404174026554.dll...
+[17-04-04 17:40:26] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-04 17:40:26] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-04 17:40:26] Info: IGNORING assembly reference `Depender`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-04 17:40:26] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-04 17:40:26] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Dive-Coaster-Car-8`.
+[17-04-04 17:40:26] Info: Compile using compiler version v3.5.
+[17-04-04 17:40:34] Info: Loaded build-170404174026554, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-04 17:40:34] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.

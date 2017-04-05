@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2248852663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c123e3aa359335229a17df54a750f1c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc01c0f0a89e785b99160c79df0a31db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Dive-Coaster-Car-8/Dive-Coaster-Car-8@DiveCoasterFront0.2.prefab
+Dependencies: []

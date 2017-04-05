@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Dive-Coaster-Car-8</ModName>
+  <ModDiscription>Dive Coaster Car (8) for Wingcoaster</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Dive-Coaster-Car-8@DiveCoasterFront0.2</OBJName>
+      <Type>CoasterCar</Type>
+      <inGameName>Dive Coaster Cars 8</inGameName>
+      <price>0</price>
+      <CoasterName>Wing Coaster</CoasterName>
+      <RestraintAngle>(0.0, 0.0, -115.0)</RestraintAngle>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>FFED00</Color1>
+      <Color2>3F3F3F</Color2>
+      <Color3>00989F</Color3>
+      <Color4>FFED00</Color4>
+    </Object>
+  </Objects>
+</Mod>
